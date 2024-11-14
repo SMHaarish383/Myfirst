@@ -5,6 +5,7 @@ class CustomException extends Exception{
 		super(name);
 	}
 }
+//this is the SwitchCase program in my idea I used try catch block here
 public class SwitchCasePractice {
 	//@SuppressWarnings("resource")
 	public static void main(String[]args) {
